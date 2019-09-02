@@ -373,3 +373,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Dave Watkin's solution](https://github.com/DavidWatkinCode/the_odin_project/tree/master/javascript/calculator) - [View in Browser](https://davidwatkincode.github.io/the_odin_project/javascript/calculator)
 - [TuSeMorte's solution](https://github.com/TuSeMorte/CALCULATOR) - [View in Browser](https://tusemorte.github.io/CALCULATOR/)
 </details>
+- [Dave Watkin's solution](https://github.com/DavidWatkinCode/the_odin_project/tree/master/javascript/calculator) - [View in Browser](https://davidwatkincode.github.io/the_odin_project/javascript/calculator)
+- [Trebilcode's solution](https://github.com/Trebilcode/Calculator) - [View in Browser](https://trebilcode.github.io/Calculator/)
+</details>
